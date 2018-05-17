@@ -33,6 +33,8 @@ gem 'bcrypt', '~> 3.1.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'graphql', '1.7.4'
+gem 'search_object', '1.2.0'
+gem 'search_object_graphql', '0.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
